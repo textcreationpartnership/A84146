@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Justa honoraria: or, Funeral rites in honor to the great memorial of my deceased master, the Right Honorable, Robert Earl of Essex and Ewe, Viscount Hereford, Lord Ferrers of Chartley, Bourchier and Lovain, &amp;c. Humbly presented to all them that are real mourners at his funeral, by Daniel Evance Master of Arts: Sed. Suff. Coll. Cam. and servant-chaplin to his honor.</title>
+            <author>Evance, Daniel.</author>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84146</idno><idno type="EEBO-CITATION">99861708</idno>
+  <idno type="VID">113850</idno>
+  <idno type="EEBO-PROQUEST">2240950540</idno>
+  
+            <idno type="STC">Wing E3442</idno>
+            <idno type="STC">Thomason E358_15</idno>
+            <idno type="STC">ESTC R201160</idno>
+            <idno type="PROQUEST">99861708</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861708e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113850)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E358[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Justa honoraria: or, Funeral rites in honor to the great memorial of my deceased master, the Right Honorable, Robert Earl of Essex and Ewe, Viscount Hereford, Lord Ferrers of Chartley, Bourchier and Lovain, &amp;c. Humbly presented to all them that are real mourners at his funeral, by Daniel Evance Master of Arts: Sed. Suff. Coll. Cam. and servant-chaplin to his honor.</title>
+                  <author>Evance, Daniel.</author>
+               </titleStmt>
+               <extent>27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Octob: 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646 --  Death and burial --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113850:1"/>
+            <pb facs="tcp:113850:1"/>
+            <p>
+               <hi>JƲSTA HONORARIA:</hi> OR, FVNERAL RITES IN HONOR To the great MEMORIAL of my Deceased MASTER, The Right Honorable, <hi>Robert</hi> Earl of <hi>Essex</hi> and <hi>Ewe,</hi> Viscount <hi>Hereford,</hi> Lord <hi>Ferrers</hi> of <hi>Chartley, Bour<g ref="char:EOLhyphen"/>chier</hi> and <hi>Lovain,</hi> &amp;c. Humbly Presented to all them that are Real Mourners at his FUNERAL,</p>
+            <p>By <hi>Daniel Evance</hi> Master of Arts: <hi>Sed Suss. Coll. Cam.</hi> and Ser<g ref="char:EOLhyphen"/>vant-Chaplin to his Honor.</p>
+            <q>
+               <hi>— Post Fata superstes.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of COMMONS.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:113850:2"/>
+            <head>The <hi>Licence.</hi>
+            </head>
+            <lg>
+               <l>SO the State orders, that which walks abroad</l>
+               <l>Must pass the <hi>Press by Licence;</hi> So these shou'd,</l>
+               <l>So wou'd these Papers, did they not receive</l>
+               <l>From the <hi>High Subject</hi> that <hi>Prerogative:</hi>
+               </l>
+               <l>Let <hi>ESSEX</hi> priviledge the pomp and matter</l>
+               <l>Of His great Death into an <hi>Imprimatur.</hi>
+               </l>
+               <l>The Printer that Prints HIM, may truly go</l>
+               <l>For one that Prints <hi>cum privilegio.</hi>
+               </l>
+               <l>And that, which bears HIS NAME, may pass and be</l>
+               <l>A Copy <hi>Printed by Authority.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113850:2"/>
+            <head>TO The most Fragrant Dust of my Deceased MASTER.</head>
+            <lg>
+               <l>
+                  <hi>MOre fragrant</hi> then the bruised Pomander,</l>
+               <l>Such is the savor of thy richer Name,</l>
+               <l>As it diffuseth from <hi>the broken frame</hi>
+               </l>
+               <l>Most sweetness in thy <hi>Reliques</hi> and remainder.</l>
+               <l>
+                  <hi>'Tis of thine own we offer unto Thee,</hi>
+               </l>
+               <l>
+                  <hi>The Incense fuming from thy Memory.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>More fragrant</hi> then the Beds where Spices breed,</l>
+               <l>Which softest winds have gently fann'd and galed,</l>
+               <l>And temperate beams by little have exhaled,</l>
+               <l>Until the boundless sweetness do exceed.</l>
+               <l>
+                  <hi>'Tis not for us — Our Flowers to bring and strow,</hi>
+               </l>
+               <l>
+                  <hi>But that our Garlands on thy Herse may grow.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>More fragrant</hi> then the Ayr, that moves about</l>
+               <l>The <hi>Arabian</hi> Bird, as she does fan the flame</l>
+               <l>Which in the Spices from her clappings came,</l>
+               <l>And with perfumes into her Urn goes out.</l>
+               <l>
+                  <hi>What Balm, or Odours can we pour on thee</hi>
+               </l>
+               <l>
+                  <hi>In whom our offerings must Embalmed be?</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:113850:3"/>
+            <lg>
+               <l>Yet we could lave the <hi>Fountains</hi> in our head,</l>
+               <l>And gush forth <hi>Rivers</hi> from our flowing eyes,</l>
+               <l>And spare some <hi>Streams of Blood</hi> for Eligies</l>
+               <l>To melt the World with this, <hi>My Lord is dead.</hi>
+               </l>
+               <l>
+                  <hi>Nor would we think our Obsequies mis-spent,</hi>
+               </l>
+               <l>
+                  <hi>But that they can't make up</hi> THY MONUMENT.</l>
+            </lg>
+            <lg>
+               <l>Some (hastned by officious Piety)</l>
+               <l>Have <hi>crown'd</hi> themselves by <hi>Crowning</hi> of thy Herse,</l>
+               <l>Melting their hearts to Elegeick Verse.</l>
+               <l>And <hi>others</hi> would for <hi>tears of duty</hi> vye:</l>
+               <l>But when they think of <hi>weeping,</hi> they grow dry,</l>
+               <l>
+                  <hi>Stunn'd</hi> with the <hi>Muse</hi> of such an Elegy.</l>
+            </lg>
+            <lg>
+               <l>'Tis <hi>easie grief,</hi> that hath a <hi>vent</hi> to break</l>
+               <l>Out into sorrow at, or that can <hi>weep;</hi>
+               </l>
+               <l>Or <hi>Laws in Mourning</hi> can distinctly keep;</l>
+               <l>
+                  <hi>The Heart is eased when the Tongue can speak.</hi>
+               </l>
+               <l>But solemn sorrow is both <hi>dumb</hi> and <hi>dry;</hi>
+               </l>
+               <l>
+                  <hi>The heart weeps inward, and not by the eye.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They are the Vulgar Rites, and Obsequies</l>
+               <l>Of Common Funerals, To <hi>weep in Verse,</hi>
+               </l>
+               <l>And talk of drilling tears upon an Herse;</l>
+               <l>Such pratling weepers make <hi>dry</hi> Elegies.</l>
+               <l>Give me that grief which does not <hi>wet,</hi> but <hi>burn</hi>
+               </l>
+               <l>And parch the shrivil'd heart into an Urn.</l>
+            </lg>
+            <pb facs="tcp:113850:3"/>
+            <lg>
+               <l>I have no <hi>watry Goddess</hi> to implore,</l>
+               <l>Nor <hi>Ghosts of Poets</hi> to disturb from sleep</l>
+               <l>To teach me how my <hi>Stops</hi> and <hi>Tones</hi> to keep;</l>
+               <l>The boundless passions of our hearts are more.</l>
+               <l>(Yet we <hi>scarse feel</hi> the loss of such a Treasure)</l>
+               <l>Then can be taught to keep or <hi>Time</hi> or <hi>Measure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If all those <hi>Artist-Mourners,</hi> who had skill</l>
+               <l>To make the streams of Hallow'd passion flow</l>
+               <l>From Stones and Marble, were in action still;</l>
+               <l>Yea, could I <hi>hire</hi> them, and imploy them now,</l>
+               <l>They could not swell the tides of passion higher</l>
+               <l>Then my <hi>Lords Merits</hi> and my <hi>own desire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At once: 'Tis not because thy <hi>Herse</hi> — a <hi>Shrine,</hi>
+               </l>
+               <l>Or thy <hi>Effigies</hi> wants a <hi>Coronet,</hi>
+               </l>
+               <l>Or <hi>Funerals</hi> go without their <hi>Banners</hi> set;</l>
+               <l>Nor yet, <hi>because I think so well of mine:</hi>
+               </l>
+               <l>But that a <hi>Servants Obsequie</hi> might rest</l>
+               <l>Upon his <hi>Masters Herse,</hi> of <hi>Masters best.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Esse sui voluit Monumentum &amp; pignus amoris, &amp; pignus observantiae, DANIEL EVANCE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113850:4"/>
+            <pb n="7" facs="tcp:113850:4"/>
+            <head>
+               <hi>JƲSTA HONORARIA:</hi> OR, FUNERAL RITES In Honor To the great Memorial of my Deceased MASTER, &amp;c.</head>
+            <div n="1" type="rite">
+               <head>1. Ʋpon my Lords Sickness.</head>
+               <head type="sub">Being first only for four days Aguishly distem<g ref="char:EOLhyphen"/>pered, then fiercely assaulted with a Lethargy.</head>
+               <lg>
+                  <head>I.</head>
+                  <l>ALthough the trumpet did but softly blow</l>
+                  <l>At the first onset of my Lords Disease,</l>
+                  <l>Yet to a loud <hi>Alarum</hi> it did grow,</l>
+                  <l>And the <hi>fierce Charger</hi> would have no appease:</l>
+                  <l>Death does but <hi>Face</hi> at first, but after Fate</l>
+                  <l>Begins the <hi>Storm,</hi> no <hi>Quarter</hi> after that.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>
+                     <hi>Had not the issue told me the decree,</hi>
+                  </l>
+                  <l>I could have wish'd, that <hi>Martial skill</hi> had bin</l>
+                  <l>As quick and strong to foil this Enemy,</l>
+                  <l>As in all Battels to stand out and win</l>
+                  <l>As nimble to descry, prevent, depose</l>
+                  <l>The <hi>Sratagems</hi> of Death, as of his Foes:</l>
+               </lg>
+               <pb n="8" facs="tcp:113850:5"/>
+               <lg>
+                  <head>III.</head>
+                  <l>Or that Physitians had had eyes to see</l>
+                  <l>The <hi>secret trains</hi> of Death, which lay within</l>
+                  <l>The <hi>Undermines</hi> of his close Destiny,</l>
+                  <l>This sudden blow, it may be, had not bin:</l>
+                  <l>But God, that orders by <hi>foreseeing,</hi> he</l>
+                  <l>Orders the <hi>Seers,</hi> that they shall not see:</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>Yet I — But wishes will not win the thing;</l>
+                  <l>Why should I wish Impossibilities?</l>
+                  <l>A Kingdoms Vote would Vote him back agin,</l>
+                  <l>If it were lawful to mount up our cryes.</l>
+                  <l>Yea, could this <hi>Prisoner</hi> be redeemed forth,</l>
+                  <l>The <hi>Ransom of three Kingdoms</hi> it were worth.</l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>So large a share this Marble shoulder bore</l>
+                  <l>(The great <hi>Colosse</hi> of the Church and State)</l>
+                  <l>That if he had been <hi>shaken, and no more,</hi>
+                  </l>
+                  <l>We might have lost some <hi>Rafter-pins</hi> by that;</l>
+                  <l>But how does <hi>Sions</hi> consecrated wall</l>
+                  <l>Bow down and tremble at his sudden fall?</l>
+               </lg>
+               <lg>
+                  <head>VI.</head>
+                  <l>Both Church and State began to shake when he</l>
+                  <l>Was scarse yet shaken with an <hi>Ague-fit;</hi>
+                  </l>
+                  <l>How will the downfal of this Pillar be</l>
+                  <l>An over-turning Earthquake unto it,</l>
+                  <l>
+                     <hi>But that the hand that pulls down one can raise</hi>
+                  </l>
+                  <l>
+                     <hi>Yet more Supporters to the sinking Bvys?</hi>
+                  </l>
+               </lg>
+               <pb n="9" facs="tcp:113850:5"/>
+               <lg>
+                  <head>VII.</head>
+                  <l>As <hi>first</hi> the gathering clouds did but begin</l>
+                  <l>To cast a scarf upon this brighter Sun,</l>
+                  <l>Our darkned Hemisphaere did then shut in</l>
+                  <l>As if the day declin'd, and would have gone;</l>
+                  <l>And now <hi>the Sun is set,</hi> we may have light</l>
+                  <l>From <hi>greater Stars</hi> — But <hi>Day</hi> is turn'd to <hi>Night.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>VIII.</head>
+                  <l>Let <hi>Galen</hi> call it a <hi>Metathesis</hi>
+                  </l>
+                  <l>When sickness runs into a <hi>Transmutation;</hi>
+                  </l>
+                  <l>A few such sudden <hi>Changes</hi> more as this</l>
+                  <l>Might quickly change the <hi>Frame</hi> of Church and Nation.</l>
+                  <l>There was no <hi>Healing</hi> then; O let that <hi>hand</hi>
+                  </l>
+                  <l>Which then <hi>deny'd the cure,</hi> now <hi>heal the Land!</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="rite">
+               <head>2. Ʋpon my Lords unexpected Death</head>
+               <head type="sub">(Being in his Life of a firm and strong constitu<g ref="char:EOLhyphen"/>tion) and with one sudden fit taken away.</head>
+               <lg>
+                  <head>I.</head>
+                  <l>
+                     <hi>I Am no Soldier,</hi> but some Soldiers say</l>
+                  <l>Where <hi>Art</hi> and <hi>Nature</hi> do combine</l>
+                  <l>To magazine</l>
+                  <l>Their <hi>Skill</hi> and <hi>Strengh</hi> within one Line,</l>
+                  <l>By sudden storms and batteries they may</l>
+                  <l>Attempt to <hi>lose</hi> their men, not <hi>win</hi> the day.</l>
+               </lg>
+               <pb n="10" facs="tcp:113850:6"/>
+               <lg>
+                  <head>II.</head>
+                  <l>
+                     <hi>I'm no Physitian,</hi> but Physitians say,</l>
+                  <l>Where <hi>God</hi> and <hi>Nature</hi> do agree</l>
+                  <l>To fortifie</l>
+                  <l>This <hi>little Isle of man</hi> in me,</l>
+                  <l>Sickness may make her sierce assaults, and stay</l>
+                  <l>
+                     <hi>Facing</hi> a day or two, and go away.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>
+                     <hi>I'm no Diviner,</hi> but Diviners prate,</l>
+                  <l>If Stars do favor, they can tell</l>
+                  <l>Infallible</l>
+                  <l>When I shall be sick or well,</l>
+                  <l>And as <hi>Nativities</hi> they calculate,</l>
+                  <l>They'll undertake to <hi>Death</hi> to destinate:</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>But (call me what you will) thus much I know,</l>
+                  <l>
+                     <hi>The strongest constitution may</hi>
+                  </l>
+                  <l>
+                     <hi>In half a day</hi>
+                  </l>
+                  <l>
+                     <hi>Like Snowy Mountains melt away.</hi>
+                  </l>
+                  <l>Sickness unfelt, unseen, may softly go</l>
+                  <l>Through hidden veins, and give a sudden blow.</l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>Lord, why do we on tottering reeds relye?</l>
+                  <l>Princes are but a puff of breath,</l>
+                  <l>Something beneath</l>
+                  <l>The fainting Grass, that withereth.</l>
+                  <l>O what a brittle piece of vanity</l>
+                  <l>Is man, that does but <hi>fall asleep,</hi> and dye!</l>
+               </lg>
+               <pb n="11" facs="tcp:113850:6"/>
+               <lg>
+                  <head>VI.</head>
+                  <l>You proud Considers in the Stars, who know</l>
+                  <l>And can foretel by their consents</l>
+                  <l>Future events</l>
+                  <l>Both on Kings and Parliaments,</l>
+                  <l>Why was not this <hi>foretold</hi> us long ago</l>
+                  <l>That <hi>England</hi> might be <hi>fenc'd</hi> for such a blow?</l>
+               </lg>
+               <lg>
+                  <head>VII.</head>
+                  <l>
+                     <hi>The Stars can never pry into Decrees,</hi>
+                  </l>
+                  <l>And as for those, that <hi>pack a Spell</hi>
+                  </l>
+                  <l>And think to tell</l>
+                  <l>
+                     <hi>Contingences</hi> by <hi>Oracle,</hi>
+                  </l>
+                  <l>The <hi>Wisemen</hi> are but <hi>Fools,</hi> their <hi>Tokens</hi> less</l>
+                  <l>Then <hi>Folly,</hi> and their <hi>Knowledge Foolishness.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>VIII.</head>
+                  <l>And what if such a <hi>change on Earth</hi> as this</l>
+                  <l>Should put the Stars besides their course,</l>
+                  <l>And make divorce</l>
+                  <l>Between Conjunctions in their force;</l>
+                  <l>It seems, 'twas such a Destiny, as <hi>His</hi>
+                  </l>
+                  <l>Which made your <hi>Cantings</hi> and <hi>Predictions</hi> miss.</l>
+               </lg>
+            </div>
+            <div n="3" type="rite">
+               <head>3. Upon my Lords going to his Grave in peace, after all his hazardous adventures in the service of the KINGDOM.</head>
+               <lg>
+                  <head>I.</head>
+                  <l>
+                     <hi>I Saw a Tree</hi> well spread, and mounted high,</l>
+                  <l>The tow'ring Top-bows in the clouds did lie;</l>
+                  <pb n="12" facs="tcp:113850:7"/>
+                  <l>And under-branches to such thickness spread,</l>
+                  <l>It might three Kingdoms well have sheltered;</l>
+                  <l>Under the blessing of whose safer shade</l>
+                  <l>
+                     <hi>Churches</hi> and <hi>States</hi> securely laid.</l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>
+                     <hi>I saw a storm</hi> (as <hi>black as night</hi>) approach,</l>
+                  <l>Through which from darkest clouds <hi>bright day</hi> did flash</l>
+                  <l>Like flaming <hi>Chasma's</hi> in that cloud of smoke</l>
+                  <l>Which from the sulpherous tops of <hi>Aetna</hi> broke:</l>
+                  <l>The <hi>Isles</hi> began to thunder, and there fell</l>
+                  <l>
+                     <hi>Blood-Tempests</hi> on the Common-weal.</l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>
+                     <hi>I saw the Cedars</hi> of the Forrest shake,</l>
+                  <l>The tallest <hi>Pines,</hi> and sturdiest <hi>Oaks</hi> did quake</l>
+                  <l>Like tottering <hi>Reeds,</hi> which every breath of air</l>
+                  <l>Tosseth to various wavings here and there:</l>
+                  <l>Amongst the rest, some stoutly stood the shock</l>
+                  <l>When others either bow'd or broke.</l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>
+                     <hi>I saw the Tempest over;</hi> and <hi>that Tree,</hi>
+                  </l>
+                  <l>Which <hi>fenced</hi> Kingdoms from the injury</l>
+                  <l>Of Thunder-tempests, and <hi>unshaken</hi> stood</l>
+                  <l>Like some great <hi>Oak</hi> within a ruin'd wood,</l>
+                  <l>Or <hi>Bay Tree</hi> priviledg'd from the Thunder-stone,</l>
+                  <l>
+                     <hi>In a still day did fall alone.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>There needs no <hi>Oedipus</hi> to unravel this,</l>
+                  <l>
+                     <hi>The Warrior went unto his Grave in peace.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="4" type="rite">
+               <pb n="13" facs="tcp:113850:7"/>
+               <head>4. My Lords <hi>Elegy.</hi>
+               </head>
+               <lg>
+                  <l>SO <hi>Stars</hi> fall down from Heaven; the <hi>Sun</hi> goes out,</l>
+                  <l>
+                     <hi>Mountains</hi> shrink down into the Vales about</l>
+                  <l>In sudden Earthquakes; <hi>Brazen Pillars</hi> fall,</l>
+                  <l>And <hi>Gods</hi> must have at last their Funeral:</l>
+               </lg>
+               <lg>
+                  <l>But <hi>falling-Stars</hi> do <hi>never rise</hi> agin,</l>
+                  <l>They're smother'd in the smoke they vanish in.</l>
+                  <l>As the great light of Heaven goes out, the <hi>Sun</hi>
+                  </l>
+                  <l>Makes <hi>no more day,</hi> after that day is done.</l>
+                  <l>The <hi>Valleys</hi> swell not into <hi>Mountain-tops</hi>
+                  </l>
+                  <l>After the <hi>Hill</hi> into the <hi>Valley drops.</hi>
+                  </l>
+                  <l>The <hi>Brazen Standards</hi> of the World, that <hi>rot</hi>
+                  </l>
+                  <l>To nothing, at their <hi>Ruines are forgot.</hi>
+                  </l>
+                  <l>But <hi>ESSEX</hi> from his Funeral Urn does flame</l>
+                  <l>To brighter glory, and renews his Name.</l>
+                  <l>As <hi>Tapers</hi> in their going out do <hi>blaze,</hi>
+                  </l>
+                  <l>And <hi>vanish in perfumes,</hi> so did HIS days</l>
+                  <l>Go out in <hi>Honor,</hi> and his <hi>Savor</hi> went</l>
+                  <l>From the Suns <hi>Orient</hi> to the <hi>Occident.</hi>
+                  </l>
+                  <l>His <hi>Death</hi> brings in his <hi>Life,</hi> and makes his <hi>Fall</hi>
+                  </l>
+                  <l>But the great <hi>Rise</hi> to his <hi>Memorial.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>'Twas not (great Lord) for <hi>History</hi> to begin</l>
+                  <l>To pen thy Life and Death, till all came in;</l>
+                  <l>And now that all is done, thou dost not <hi>dye,</hi>
+                  </l>
+                  <l>But only <hi>hasten</hi> to thine <hi>History:</hi>
+                  </l>
+                  <pb n="14" facs="tcp:113850:8"/>
+                  <l>Now men begin to write, and talk, and tell,</l>
+                  <l>And <hi>weep</hi> what <hi>ESSEX</hi> did, while he was well.</l>
+                  <l>'Twas <hi>ESSEX</hi> own'd the <hi>Standard</hi> for the State</l>
+                  <l>When <hi>Princes</hi> frown'd him to a <hi>Trayters Fate.</hi>
+                  </l>
+                  <l>'Twas <hi>ESSEX</hi> carry'd on the <hi>first Forlorn,</hi>
+                  </l>
+                  <l>And gave his <hi>Life</hi> for those that are <hi>unborn:</hi>
+                  </l>
+                  <l>
+                     <hi>ESSEX</hi> was <hi>Traytor General</hi> when few wou'd</l>
+                  <l>
+                     <hi>High-Treason</hi> it for <hi>King</hi> and <hi>Countreys good.</hi>
+                  </l>
+                  <l>Nothing but <hi>ESSEX fills the mouth of Fame,</hi>
+                  </l>
+                  <l>And Parats learn to prate great <hi>ESSEX</hi>'s Name.</l>
+               </lg>
+               <lg>
+                  <l>His <hi>Acts</hi> (half-dead while he was living) be</l>
+                  <l>In every tongue a <hi>running History.</hi>
+                  </l>
+                  <l>Now <hi>Keynton</hi> is as fresh as <hi>Nazeby-field,</hi>
+                  </l>
+                  <l>And <hi>Newbery</hi> and <hi>Gloster</hi> will not yield</l>
+                  <l>Their Names to envious Oblivion,</l>
+                  <l>But are as Victories but <hi>newly won.</hi>
+                  </l>
+                  <l>I must not give by <hi>Items</hi> what came in</l>
+                  <l>By <hi>greater Sums</hi> upon his conquering.</l>
+                  <l>
+                     <hi>Some</hi> say — He <hi>sav'd the Church,</hi> and <hi>some the State,</hi>
+                  </l>
+                  <l>And <hi>others,</hi> that he did but <hi>propagate</hi>
+                  </l>
+                  <l>And breath his soul (while living) into them</l>
+                  <l>Who will do, what he did, in stead of him.</l>
+                  <l>But <hi>all</hi> say this of <hi>ESSEX</hi> (Foe and Friend)</l>
+                  <l>ESSEX <hi>began the Work, and saw the end.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O for a <gap reason="foreign" resp="#oxf" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> that HE</l>
+                  <l>Surviving in <hi>Nobility</hi> might be:</l>
+                  <pb n="15" facs="tcp:113850:8"/>
+                  <l>Then High-born Blood would boil and froth agin</l>
+                  <l>To be in <hi>action,</hi> angry at the <hi>Rains</hi>
+                  </l>
+                  <l>Which check in <hi>Resolution,</hi> and would be</l>
+                  <l>The <hi>first</hi> in forwardest activity.</l>
+                  <l>Then <hi>Councel</hi> would <hi>begin,</hi> but quickly go</l>
+                  <l>To <hi>Actings,</hi> and not long <hi>dispute,</hi> but <hi>do.</hi>
+                  </l>
+                  <l>The <hi>Byases</hi> would down, and as the <hi>Sun</hi>
+                  </l>
+                  <l>Keeps on his <hi>Line,</hi> so <hi>vertue</hi> would go on.</l>
+                  <l>Then <hi>Honor, Life,</hi> and all would be forgot,</l>
+                  <l>And nothing but the Kingdoms <hi>safety</hi> sought.</l>
+                  <l>Then we should finde a spirit (at a dye)</l>
+                  <l>To <hi>take up</hi> or to <hi>lay down</hi> Chivalry.</l>
+                  <l>To be on <hi>Horse back</hi> for the Countreys good,</l>
+                  <l>Or else on <hi>Wool-packs</hi> as the Countrey wou'd,</l>
+                  <l>To <hi>do</hi> and <hi>suffer,</hi> and to bear away</l>
+                  <l>The work before them till their dying day.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Gown</hi> would <hi>conquer-on,</hi> and <hi>win</hi> at <hi>Home</hi>
+                  </l>
+                  <l>What <hi>Armies</hi> leave <hi>abroad</hi> to overcome.</l>
+                  <l>Then <hi>Heresie</hi> would be <hi>whipt</hi> and <hi>stript;</hi> and they,</l>
+                  <l>Who <hi>mutiny</hi> by <hi>Schism,</hi> would not be</l>
+                  <l>Without their Recompence; and <hi>Blasphemies</hi>
+                  </l>
+                  <l>Would have <hi>Revenge</hi> from <hi>lesser Deities,</hi>
+                  </l>
+                  <l>Then <hi>Englands Peace</hi> might <hi>spin, Scotland</hi> return,</l>
+                  <l>And <hi>Ireland</hi> not to her last cyndars burn.</l>
+                  <l>And when the work's done here, <hi>some</hi> would go on</l>
+                  <l>And scale the prouder Walls of <hi>Babylon,</hi>
+                  </l>
+                  <pb n="16" facs="tcp:113850:9"/>
+                  <l>So would our <hi>Hopes</hi> (half-dead in HIM) revive,</l>
+                  <l>And we should think our selves agin alive:</l>
+                  <l>O for a <gap reason="foreign" resp="#oxf" extent="1 word">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> that HE</l>
+                  <l>Surviving in <hi>Nobility</hi> might be.</l>
+               </lg>
+               <lg>
+                  <l>But <hi>ESSEX</hi> is quite lost, till he be found</l>
+                  <l>In some <hi>Inheritors,</hi> who can compound</l>
+                  <l>With Heaven to have his <hi>vertues</hi> as his <hi>state,</hi>
+                  </l>
+                  <l>And then a <hi>Phoenix</hi> may spring from THIS FATE.</l>
+                  <l>Till then his <hi>Funerals</hi> I shall keep, and say,</l>
+                  <l>They are not <hi>over</hi> until such a day.</l>
+               </lg>
+               <lg>
+                  <l>Yet if there be a <hi>spark</hi> of that <hi>great flame</hi>
+                  </l>
+                  <l>Alive in any breast (although his <hi>NAME</hi>
+                  </l>
+                  <l>Be almost lost in him) It shall revive,</l>
+                  <l>And <hi>ESSEX</hi> shall be said to be alive.</l>
+                  <l>If there be <hi>COURAGE</hi> steel'd with <hi>CONSTANCY,</hi>
+                  </l>
+                  <l>If there be <hi>COUNCEL</hi> mann'd with <hi>PRUDENCY,</hi>
+                  </l>
+                  <l>If <hi>CANDOR</hi> mixed with <hi>HEROICKNES,</hi>
+                  </l>
+                  <l>If <hi>COMITY</hi> embrace <hi>MAGNIFICENCE,</hi>
+                  </l>
+                  <l>If <hi>THOUGHTS</hi> are <hi>LOW</hi> where best <hi>DESERTS</hi> are <hi>HIGH</hi>
+                  </l>
+                  <l>If a well-temper'd <hi>LIBERALITY</hi>
+                  </l>
+                  <l>Be <hi>Prodigally frugal;</hi> If there be</l>
+                  <l>
+                     <hi>IUSTICE</hi> well ballanc'd by <hi>indifferency;</hi>
+                  </l>
+                  <l>If <hi>HEART</hi> be <hi>SINGLE</hi> with a <hi>SINGLE EYE,</hi>
+                  </l>
+                  <l>Acting forth <hi>VIGOR</hi> from <hi>INTEGRITY,</hi>
+                  </l>
+                  <l>If <hi>HANDS</hi> be acting from a <hi>PUBLICK HEART,</hi>
+                  </l>
+                  <l>In Loyalty the <hi>HIGHEST SUBJECTS</hi> part.</l>
+                  <pb n="17" facs="tcp:113850:9"/>
+                  <l>If these, and <hi>MORE,</hi> be scatter'd <hi>ONE</hi> by <hi>ONE,</hi>
+                  </l>
+                  <l>And <hi>SINGLE</hi> found upon some <hi>Paragon,</hi>
+                  </l>
+                  <l>
+                     <hi>SO MANY WORTHIES</hi> may make up the frame</l>
+                  <l>Which Nature hath in <hi>HIS DEATH</hi> brake in twain.</l>
+                  <l>Or if <hi>ALL THESE</hi> be found in <hi>ONE,</hi> 'tis <hi>HE</hi>
+                  </l>
+                  <l>That must the <hi>PHOENIX</hi> of <hi>THIS PHOENIX</hi> be.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Now I could weep, and say no more;</hi> We do,</l>
+                  <l>Counting his <hi>Worth,</hi> but sum our <hi>losses</hi> too,</l>
+                  <l>And tell the world, <hi>One sullen blow</hi> did turn</l>
+                  <l>This <hi>Mass</hi> and <hi>Heap</hi> of vertue to an Urn.</l>
+                  <l>The <hi>Remedy,</hi> which oft asswageth grief,</l>
+                  <l>
+                     <hi>Augments</hi> our sorrows, and <hi>obstructs</hi> relief.</l>
+                  <l>'Twas <hi>Comfort</hi> that we could <hi>his virtues boast,</hi>
+                  </l>
+                  <l>Till we were forc'd to say, <hi>ALL THIS</hi> is lost.</l>
+                  <l>To say <hi>HE WAS</hi> all this — Is but to say,</l>
+                  <l>
+                     <hi>HE IS NOT,</hi> and all this is swept away.</l>
+                  <l>
+                     <hi>Thus does the Sun with pleasant rays begin</hi>
+                  </l>
+                  <l>
+                     <hi>To break a cloud, and presently shut in.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Tell me no more what was by <hi>ESSEX</hi> done,</l>
+                  <l>Nor reckon up the <hi>Victories</hi> he won;</l>
+                  <l>Let me not see the <hi>Catalogue</hi> you call</l>
+                  <l>The <hi>Acts</hi> and <hi>Monuments</hi> of that <hi>General.</hi>
+                  </l>
+                  <l>Nor hear the <hi>boastings</hi> of those <hi>Sons of Pride</hi>
+                  </l>
+                  <l>Who mounted on <hi>his History</hi> would ride</l>
+                  <l>Throughout the World, and <hi>Trumpeting</hi> his Fame,</l>
+                  <l>
+                     <hi>Blow louder</hi> but to get themselves a name.</l>
+               </lg>
+               <pb n="18" facs="tcp:113850:10"/>
+               <lg>
+                  <l>Call him no more the <hi>Churches Champion,</hi>
+                  </l>
+                  <l>Who <hi>girt himself</hi> for Reformation:</l>
+                  <l>Tell me not what he did at <hi>home, abroad,</hi>
+                  </l>
+                  <l>In <hi>Furs,</hi> in <hi>Armor</hi> for his Countreys good.</l>
+                  <l>Cast up your <hi>gains,</hi> and then cast up your <hi>losses,</hi>
+                  </l>
+                  <l>And tell me how the reckoning <hi>meets</hi> or <hi>crosses.</hi>
+                  </l>
+                  <l>
+                     <hi>The Kingdom hath lost more by losing him,</hi>
+                  </l>
+                  <l>
+                     <hi>Then they have got by</hi> ALL HIS <hi>Conquering.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Had <hi>ESSEX</hi> been (which is impossible)</l>
+                  <l>A <hi>private loss,</hi> yet 't had been countable.</l>
+                  <l>
+                     <hi>Jewels are Jewels in a private hand:</hi>
+                  </l>
+                  <l>But <hi>Jewels of the Crown</hi> once lost, the <hi>Land</hi>
+                  </l>
+                  <l>And <hi>Kingdom</hi> is the <hi>loser;</hi> So in his fall</l>
+                  <l>Both Church and State was <hi>Epileptical:</hi>
+                  </l>
+                  <l>Let <hi>Publike-losses</hi> then have <hi>publike-groans,</hi>
+                  </l>
+                  <l>
+                     <hi>England,</hi> make thou his <hi>Lamentations.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="5" type="rite">
+               <head>5. Englands <hi>Lamentation.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <note place="margin">2 Sam 3.38.</note>
+                     <hi>THis day — A great man fell in <hi> Israel,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>This day — The Captain over thousands fell:</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Isa. 3.1,2, &amp;c.</note>
+                     <hi>The mighty man did fall, the man of War,</hi>
+                  </l>
+                  <l>
+                     <hi>The Honorable, and the Counsellor;</hi>
+                  </l>
+                  <l>
+                     <hi>The Judge, the Prudent and the Ancient fell,</hi>
+                  </l>
+                  <l>
+                     <hi>The Staff bow'd down, bow'd down, and broke, and fell.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Who broke the Staff — The stay who took away</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <hi>Jerusalems</hi> whole staff, and <hi>Judahs</hi> stay?</hi>
+                  </l>
+                  <pb n="19" facs="tcp:113850:10"/>
+                  <l>
+                     <note place="margin">2 Sam. 1.19.</note>
+                     <hi>How came the beauty of <hi>Israel</hi> thus to fade?</hi>
+                  </l>
+                  <l>
+                     <hi>How is the mighty fallen? Ah what made</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Vers. 25.</note>
+                     <hi>The mighty fall, and yet the Battel over? —</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Vers. 22.</note>
+                     <hi>That mighty man, whose Bow did still recover</hi>
+                  </l>
+                  <l>
+                     <hi>The fat, and blood of those that fell; The fat</hi>
+                  </l>
+                  <l>
+                     <hi>And blood of mighty men, and turned not?</hi>
+                  </l>
+                  <l>
+                     <hi>His Bow ne'r turned back, nor his Sword come</hi>
+                  </l>
+                  <l>
+                     <hi>Or from the slain, or mighty — empty home:</hi>
+                  </l>
+                  <l>
+                     <hi>How is the mighty faln — Ah, what made</hi>
+                  </l>
+                  <l>
+                     <hi>The mighty fall, and yet the Battel laid?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Vers. 20.</note>
+                     <hi>Ah let it not in <hi>Gath</hi> be spoken-on,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor publish'd in the streets of <hi>Askelon,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Least the glad Daughters of the <hi>Philistine</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>(Uncircumcised Daughters) should begin</hi>
+                  </l>
+                  <l>
+                     <hi>To shout their triumphs, Laugh at <hi>Israels</hi> mean,</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Vers. 24.</note>
+                     <hi>And make a Song of this — Her Beauty's gone:</hi>
+                  </l>
+                  <l>
+                     <hi>But you who are the true and high-born breed,</hi>
+                  </l>
+                  <l>
+                     <hi>The fairer Branches sprung from <hi>Jacobs</hi> seed —</hi>
+                  </l>
+                  <l>
+                     <hi>Weep over <hi>Saul</hi> — Daughters of <hi>Israel</hi> —</hi>
+                  </l>
+                  <l>
+                     <hi>Daughters of <hi>Israel</hi> — weep over <hi>Saul.</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>'Twas he, that cloathed you in Scarlet-wool,</hi>
+                  </l>
+                  <l>
+                     <hi>And fed you with delights, till ye were full; —</hi>
+                  </l>
+                  <l>
+                     <hi>Redeem'd you, when you were for Captives sold,</hi>
+                  </l>
+                  <l>
+                     <hi>And put upon you Ornaments of Gold.</hi>
+                  </l>
+                  <l>
+                     <hi>Weep over <hi>Saul</hi> — Daughters of <hi>Israel,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Daughters of <hi>Israel</hi> — weep over <hi>Saul.</hi>
+                     </hi>
+                  </l>
+               </lg>
+               <pb n="20" facs="tcp:113850:11"/>
+               <lg>
+                  <l>
+                     <note place="margin">Vers. 25.</note>
+                     <hi>O thou, that stood'st in thine high-places fast</hi>
+                  </l>
+                  <l>
+                     <hi>Untouch'd, unslain, how didst thou fall at last!</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Vers. 26.</note>
+                     <hi>We are distressed now, distress'd for thee;</hi>
+                  </l>
+                  <l>
+                     <hi>How pleasant hast thou bin to us, to me?</hi>
+                  </l>
+                  <l>
+                     <hi>Thy love to us was wonderful, Above</hi>
+                  </l>
+                  <l>
+                     <hi>Passing the love of women, past their love:</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Vers. 27.</note>
+                     <hi>How is the mighty faln? Ah, what made</hi>
+                  </l>
+                  <l>
+                     <hi>The mighty fall, and yet the Battel laid!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">2 Sam. 3.31,32,33.</note>
+                     <hi>Let <hi>Joab</hi> rend his cloathes, Let <hi>Joab</hi> mourn</hi>
+                  </l>
+                  <l>
+                     <hi>For <hi>Abner,</hi> — and, Let all the people turn</hi>
+                  </l>
+                  <l>
+                     <hi>Their clothes to Sack cloth — <hi>David</hi>'s self will after</hi>
+                  </l>
+                  <l>
+                     <hi>His Bier to <hi>Hebron</hi> — <hi>David</hi> mourn for <hi>Abner.</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>The Princes lift their voyces up, and weep,</hi>
+                  </l>
+                  <l>
+                     <hi>The Princes weep at <hi>Abners</hi> grave, and keep</hi>
+                  </l>
+                  <l>
+                     <note place="margin">Vers. 36.</note>
+                     <hi>Their Lamentations over him, and we</hi>
+                  </l>
+                  <l>
+                     <hi>Are glad to fee't, and weep at what we see.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="6" type="rite">
+               <head>6. My Lords <hi>Epitaph.</hi>
+               </head>
+               <lg>
+                  <l>MArble, never blab thy trust,</l>
+                  <l>Keep close the treasure of that Dust</l>
+                  <l>Which is committed unto thee</l>
+                  <l>To lock-up as a secresie,</l>
+                  <l>
+                     <hi>Lest after Ages, as they may pass by</hi>
+                  </l>
+                  <l>
+                     <hi>Make a stand here, and act Idolatry:</hi>
+                  </l>
+               </lg>
+               <pb n="21" facs="tcp:113850:11"/>
+               <lg>
+                  <l>Tell not one Letter of his Name,</l>
+                  <l>Though this Age should forget the fame;</l>
+                  <l>If after Ages silent be,</l>
+                  <l>Then let the Marble speak for me:</l>
+                  <l>
+                     <hi>While in our hearts he does Embalmed lie,</hi>
+                  </l>
+                  <l>
+                     <hi>Stones are dull Tables of his Memory.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yet if the stones must weep and speak,</l>
+                  <l>Or else the Marble too will break;</l>
+                  <l>Say that thou art the <hi>MONUMENT</hi>
+                  </l>
+                  <l>Both of <hi>KING</hi> and <hi>PARLIAMENT,</hi>
+                  </l>
+                  <l>
+                     <hi>And that the first-great-Master of the Field</hi>
+                  </l>
+                  <l>
+                     <hi>Not Conquer'd did himself thy Prisoner yield.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And if you will be blabbing, score</l>
+                  <l>Two hundred Victories, and more:</l>
+                  <l>And say you have the Dust, that stood</l>
+                  <l>In all adventures, sound and good.</l>
+                  <l>
+                     <hi>Then — write his Name at length, and so he'll be</hi>
+                  </l>
+                  <l>
+                     <hi>As thou to him, a</hi> MONUMENT <hi>to thee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Here lies <hi>ESSEX,</hi> and that's all</l>
+                  <l>I have to shrine his Dust withal.</l>
+               </lg>
+               <pb n="20" facs="tcp:113850:12"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:113850:12"/>
+               <gap reason="duplicate" resp="#oxf" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div n="7" type="rite">
+               <pb n="22" facs="tcp:113850:13"/>
+               <head>7. The humble Invitation of His Excellency Sir <hi>Tho: Fairfax</hi> to my Lords FUNERAL.</head>
+               <lg>
+                  <l>TWas <hi>ESSEX</hi> won the field, now <hi>FAIRFAX</hi> keeps it,</l>
+                  <l>
+                     <hi>'Tis equal vertue for to keep, as get it</hi>
+                  </l>
+                  <l>Then <hi>FAIRFAX trail his Funerals,</hi> and be</l>
+                  <l>The <hi>Mourner-General</hi> at his Obsequie.</l>
+                  <l>'Tis but the <hi>Copy of that Pomp,</hi> which we</l>
+                  <l>At <hi>thine own Funerals</hi> shall give to <hi>THEE,</hi>
+                  </l>
+                  <l>But that an <hi>ESSEX</hi> will be wanting then</l>
+                  <l>To do for <hi>THEE</hi> what <hi>THOU</hi> maist do for <hi>HIM.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="8" type="rite">
+               <head>8. My Lords <hi>Anagram.</hi>
+               </head>
+               <head type="sub">
+                  <hi>ESSEX,</hi> Anagr. <hi>ESSEX.</hi>
+               </head>
+               <lg>
+                  <l>YOu that have time to <hi>shuffle</hi> and <hi>pack</hi> Names,</l>
+                  <l>First to <hi>take-down,</hi> and then set up your frames;</l>
+                  <l>To rowl and turn a <hi>Sisaphus</hi> his stone;</l>
+                  <l>To do, and undo, and when all is done,</l>
+                  <l>'Tis but a sowr-crackfac'd <hi>Anagram,</hi>
+                  </l>
+                  <l>Which does but <hi>Nickname,</hi> or <hi>un-name</hi> the <hi>Name.</hi>
+                  </l>
+                  <pb n="23" facs="tcp:113850:13"/>
+                  <l>
+                     <hi>Rifle not here that sacred five</hi>
+                  </l>
+                  <l>
+                     <hi>Which never was disturb'd alive.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let <hi>ESSEX</hi> be nothing but <hi>ESSEX,</hi> he</l>
+                  <l>Was always <hi>ESSEX,</hi> and MORE cannot be.</l>
+                  <l>As firm and fast as his compacted Name,</l>
+                  <l>Which will not be divided — So the frame</l>
+                  <l>Of his resolved spirit did abide,</l>
+                  <l>
+                     <hi>ESSEX</hi> he liv'd, and <hi>ESSEX</hi> too he dy'd;</l>
+                  <l>
+                     <hi>ESSEX was ESSEX</hi> — still the same,</l>
+                  <l>
+                     <hi>I'll never alter ESSEX</hi>'s <hi>Name.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="9" type="rite">
+               <head>9. My Lords <hi>Motto.</hi>
+               </head>
+               <head type="sub">
+                  <hi>VIRTVTIS COMES INVIDIA,</hi> Englished Envy is Vertues Companion.</head>
+               <lg>
+                  <l>
+                     <note n="*" place="margin">Virtus invidiâ major. Virtutis Comes invidiâ.</note>
+                     <hi>HIgher then Envy</hi> — Great Lord — As thy Name</l>
+                  <l>Concenterates all <hi>Virtue,</hi> yet the <hi>game</hi>
+                  </l>
+                  <l>At which with <hi>molten-wings tir'd Envy</hi> flies,</l>
+                  <l>And by <hi>contending with thy Virtue</hi> dyes;</l>
+                  <l>
+                     <hi>Envy</hi> must have a flight at <hi>Honor,</hi> as</l>
+                  <l>Mounted on silver-feather'd wings 't does pass:</l>
+                  <l>But as rash <hi>Icarus</hi> attempts the Sun</l>
+                  <l>With waxen wings, and falls as fondly down:</l>
+                  <pb n="24" facs="tcp:113850:14"/>
+                  <l>Thus <hi>Envy</hi> melts before so great a Star</l>
+                  <l>As <hi>Virtue</hi> darts her beams pendicular.</l>
+                  <l>House-keeping Curs may think to bark the <hi>Moon</hi>
+                  </l>
+                  <l>Out of her course, and yet her course does run.</l>
+                  <l>That great <hi>Goliah</hi>-flame of Heaven — the <hi>Sun</hi>
+                  </l>
+                  <l>Is threatned by a Combination</l>
+                  <l>Of duskish <hi>Mutiniers,</hi> in close <hi>Array</hi>
+                  </l>
+                  <l>
+                     <hi>Battaliated</hi> to overturn the day:</l>
+                  <l>But as the <hi>Gyant</hi> of the day begins</l>
+                  <l>To shake himself, he scatters all their wings.</l>
+                  <l>
+                     <hi>Neptune</hi> may rage at Rocks, and <hi>Aeolus</hi> blow</l>
+                  <l>The great Alpeian frame to overthrow;</l>
+                  <l>The watry <hi>Goddess</hi> of the air may think</l>
+                  <l>To quench the flames of <hi>Aetna</hi> with her drink —</l>
+                  <l>But <hi>Rocks</hi> will stand, and <hi>Mountains</hi> bear their head,</l>
+                  <l>And <hi>Flames</hi> encrease the more they're watered:</l>
+                  <l>So <hi>Honor</hi> built on <hi>Virtue</hi> stands the shock</l>
+                  <l>Like a well-builded house upon a Rock.</l>
+               </lg>
+               <lg>
+                  <l>'Twas bravely done (great Mountain of the State)</l>
+                  <l>To build thy self so high, <hi>Commensurate</hi>
+                  </l>
+                  <l>To <hi>Vertue,</hi> and to <hi>Envy</hi> — Who but you</l>
+                  <l>Would have chose <hi>Vertue</hi> to have <hi>Envy</hi> too?</l>
+                  <l>Some would be <hi>Mountains</hi> — but they fear the <hi>wind,</hi>
+                  </l>
+                  <l>They wou'd fain be <hi>before,</hi> yet creep <hi>behinde.</hi>
+                  </l>
+                  <pb n="25" facs="tcp:113850:14"/>
+                  <l>They wou'd have <hi>Honor</hi> even to <hi>Envy,</hi> yet</l>
+                  <l>The <hi>Envy,</hi> which true <hi>Virtue</hi> does beget</l>
+                  <l>They are afraid of, Not because they fear</l>
+                  <l>
+                     <hi>Envy</hi> so much, as to be <hi>Virtuous</hi> here.</l>
+                  <l>O the base <hi>Honor</hi> of that <hi>Envy,</hi> when</l>
+                  <l>
+                     <hi>Honor</hi> is only <hi>envyed</hi> by men!</l>
+                  <l>
+                     <hi>'Tis thus, that Honorable Envy springs</hi>
+                  </l>
+                  <l>
+                     <hi>VVhen Virtue Honor, Honor Envy brings:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus my great <hi>Master</hi> did bew-out his way</l>
+                  <l>(Like <hi>Hannibal</hi>) thorow the Rocky bay</l>
+                  <l>Of <hi>Opposition</hi> and <hi>Contempt,</hi> till HE</l>
+                  <l>By <hi>Virtue</hi> melted stubborn Obloquy.</l>
+                  <l>And as the <hi>Sun</hi> gets up, and drives the day</l>
+                  <l>Before him (through the thickest Night) away,</l>
+                  <l>So his high prowess <hi>(strong as light)</hi> did chace</l>
+                  <l>All <hi>Fogs</hi> before the brightness of his face.</l>
+                  <l>His <hi>Virtue</hi> bred him <hi>Honor</hi> (though <hi>high-born</hi>)</l>
+                  <l>His <hi>virtuous Honor, Honorable scorn:</hi>
+                  </l>
+                  <l>Such <hi>envy added</hi> to his <hi>Honor</hi> still,</l>
+                  <l>Thus did the <hi>Epha</hi> of his <hi>Honor</hi> fill.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The <hi>Motto,</hi> and my Lord, how well</hi>
+                  </l>
+                  <l>
+                     <hi>Are they upon the Paralel!</hi>
+                  </l>
+                  <l>
+                     <hi>Virtue and Envy will agree</hi>
+                  </l>
+                  <l>
+                     <hi>As undivided company:</hi>
+                  </l>
+                  <pb n="26" facs="tcp:113850:15"/>
+                  <l>
+                     <hi>And if ever they do meet,</hi>
+                  </l>
+                  <l>
+                     <hi>They did on him each other greet.</hi>
+                  </l>
+                  <l>
+                     <hi>He was an <hi>Earl</hi> of <hi>Virtue,</hi> so</hi>
+                  </l>
+                  <l>
+                     <hi>He was an <hi>Earl</hi> of <hi>Envy</hi> too.</hi>
+                  </l>
+                  <l>
+                     <hi>On this great Instance you may well say on,</hi>
+                  </l>
+                  <l>
+                     <hi>ENVY IS VIRTUES <hi>fast.</hi> COMPANION.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="10" type="rite">
+               <head>10. Upon the <hi>Adjournings</hi> of my Lords FUNERAL.</head>
+               <lg>
+                  <l>YOu great <hi>Commanders</hi> of the <hi>Rites</hi>
+                  </l>
+                  <l>And of the <hi>Pomp,</hi> and of the <hi>State</hi>
+                  </l>
+                  <l>Of such a Funeral as this,</l>
+                  <l>Why do our <hi>expectations</hi> wait?</l>
+                  <l>Let us but see the <hi>shadow</hi> of my <hi>Lord,</hi>
+                  </l>
+                  <l>Whither it do with our <hi>high thoughts</hi> accord?</l>
+               </lg>
+               <lg>
+                  <l>What means your Funeral delays?</l>
+                  <l>Is my <hi>Lord dead</hi> indeed, or no?</l>
+                  <l>Or do you thus <hi>Adjourn,</hi> because</l>
+                  <l>
+                     <hi>You are afraid to tell us so?</hi>
+                  </l>
+                  <l>Yet let us know the <hi>worst,</hi> the worst behinde;</l>
+                  <l>
+                     <hi>VVe long to see, what we're afraid to finde.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Heralds</hi> make haste, ye need not strive</l>
+                  <l>And tamper with a <hi>VVaxen mold;</hi>
+                  </l>
+                  <pb n="27" facs="tcp:113850:15"/>
+                  <l>You cannot make my <hi>Lord alive,</hi>
+                  </l>
+                  <l>Nor yet <hi>Effigies him</hi> in <hi>Gold.</hi>
+                  </l>
+                  <l>Why are you fitting-on a <hi>Coronet</hi>
+                  </l>
+                  <l>Upon that head on which a <hi>Crown</hi> is set?</l>
+               </lg>
+               <lg>
+                  <l>Let <hi>Trumpets</hi> softest accents blow;</l>
+                  <l>Let <hi>Banners</hi> teach the air to groan:</l>
+                  <l>Let all your <hi>Train of Mourners</hi> go;</l>
+                  <l>And your <hi>Artillery</hi> trail-on:</l>
+                  <l>
+                     <hi>The greatest Pomp</hi> (when all is done) <hi>shall lye</hi>
+                  </l>
+                  <l>
+                     <hi>VVithin our hearts, and in a melting eye.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
